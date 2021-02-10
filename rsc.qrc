@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/next.png</file>
+        <file>images/open.png</file>
+        <file>images/pause.png</file>
+        <file>images/prev.png</file>
+        <file>images/resume.png</file>
+        <file>images/volume.png</file>
+        <file>images/list.png</file>
+        <file>images/modes/mode-0.png</file>
+        <file>images/modes/mode-1.png</file>
+        <file>images/modes/mode-2.png</file>
+        <file>images/modes/mode-3.png</file>
+        <file>style.qss</file>
+        <file>images/modes/mode-0-hover.png</file>
+        <file>images/modes/mode-1-hover.png</file>
+        <file>images/modes/mode-2-hover.png</file>
+        <file>images/modes/mode-3-hover.png</file>
+        <file>images/list-hover.png</file>
+        <file>images/next-hover.png</file>
+        <file>images/open-hover.png</file>
+        <file>images/pause-hover.png</file>
+        <file>images/prev-hover.png</file>
+        <file>images/resume-hover.png</file>
+        <file>logo.ico</file>
+        <file>images/default.png</file>
+        <file>images/titlesbar/close.png</file>
+        <file>images/titlesbar/close-hover.png</file>
+        <file>images/titlesbar/minimum.png</file>
+        <file>images/titlesbar/minimum-hover.png</file>
+        <file>images/titlesbar/titleicon.png</file>
+        <file>images/titlesbar/help.png</file>
+        <file>images/titlesbar/help-hover.png</file>
+    </qresource>
+</RCC>
